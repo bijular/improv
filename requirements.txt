@@ -1,7 +1,3 @@
 pydantic-ai
-asyncpg
-logfire
-devtools
-logfire[asyncpg]
 yfinance 
 gradio
